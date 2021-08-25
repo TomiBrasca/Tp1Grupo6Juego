@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Ignacio Brasca/Desktop/Tomi 2021/.Net/PruebaTP1/Test1/Content/pixelFont.spritefont</SourceFile>
+  <SourceTime>2021-05-14T00:24:02.6681646-03:00</SourceTime>
+  <DestFile>C:/Users/Ignacio Brasca/Desktop/Tomi 2021/.Net/PruebaTP1/Test1/Content/bin/Windows/pixelFont.xnb</DestFile>
+  <DestTime>2021-05-14T00:26:03.7854403-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
